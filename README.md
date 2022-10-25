@@ -1,6 +1,6 @@
 ### Olá! Me chamo Rafael! 👋
 
-Um software developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
+Um software developer apaixonado por tecnologia.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
